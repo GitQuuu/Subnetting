@@ -1,0 +1,10 @@
+C:\Users\Lasse Olesen\source\repos\Subnetting\Subnetting\bin\Debug\Subnetting.exe.config
+C:\Users\Lasse Olesen\source\repos\Subnetting\Subnetting\bin\Debug\Subnetting.exe
+C:\Users\Lasse Olesen\source\repos\Subnetting\Subnetting\bin\Debug\Subnetting.pdb
+C:\Users\Lasse Olesen\source\repos\Subnetting\Subnetting\obj\Debug\Subnetting.csprojAssemblyReference.cache
+C:\Users\Lasse Olesen\source\repos\Subnetting\Subnetting\obj\Debug\Subnetting.Form1.resources
+C:\Users\Lasse Olesen\source\repos\Subnetting\Subnetting\obj\Debug\Subnetting.Properties.Resources.resources
+C:\Users\Lasse Olesen\source\repos\Subnetting\Subnetting\obj\Debug\Subnetting.csproj.GenerateResource.cache
+C:\Users\Lasse Olesen\source\repos\Subnetting\Subnetting\obj\Debug\Subnetting.csproj.CoreCompileInputs.cache
+C:\Users\Lasse Olesen\source\repos\Subnetting\Subnetting\obj\Debug\Subnetting.exe
+C:\Users\Lasse Olesen\source\repos\Subnetting\Subnetting\obj\Debug\Subnetting.pdb
