@@ -40,8 +40,15 @@ namespace Subnetting
                 {
                     canCal = false;
                 }
+                else
+                {
+                    canCal = true;
+                }
             }
-            else { canCal = false; }
+            else
+            {
+                canCal = false;
+            }
             return output;
         }
 
